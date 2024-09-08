@@ -1,3 +1,8 @@
+// Enter the number: 4
+// * * * * 
+// * * *   
+// * *     
+// *    
 import java.util.Scanner;
 public class reversetriangle {
     public static void main(String[] args) {

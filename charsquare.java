@@ -1,3 +1,8 @@
+// Enter the number: 4
+// A B C D 
+// A B C D 
+// A B C D 
+// A B C D 
 import java.util.Scanner;
 public class charsquare {
     public static void main(String[] args) {
